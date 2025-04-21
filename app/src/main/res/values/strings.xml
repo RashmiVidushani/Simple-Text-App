@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">notes</string>
+    <string name="add_note">Add Note</string>
+    <string name="who_am_i">Who Am I?</string>
+    <string name="high_low">High/ Low</string>
+    <string name="note_description">Enter Note Desc…</string>
+    <string name="note_title">Enter note Title</string>
+    <string name="student_name_rashmi_vidushani">Student name : Rashmi Vidushani</string>
+    <string name="student_number_1180266">Student Number: 1180266</string>
+    <string name="go_back">Go Back</string>
+
+</resources>
